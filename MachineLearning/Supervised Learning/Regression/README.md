@@ -5,3 +5,4 @@
 
 ## Linear regression
 - 파라미터를 선형 결합식으로 표현 가능한 모델
+ 
