@@ -6,7 +6,7 @@
 ## SGD
 - Gradient : Momentum, NAG, NADam
 - Learning rate : Adagrad, AdaDelta, RMSProp
-- All : Adam
+- Both : Adam
 
 
 
