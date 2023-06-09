@@ -15,6 +15,8 @@
 ### 정상 시계열로 변환하려면
 1. 변동폭이 일정하지 않은 경우: 로그 변환
 2. 추세, 계절성이 존재하는 경우: 차분(정상성을 띄울때까지 반복 차분)
+
+
 ##### Forecasting: Principles and Practice
 ***
 ### AutoRegressive(AR-자동회귀)
