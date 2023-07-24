@@ -1,3 +1,3 @@
 # Supervised Learning
 - Classification
-- Regression
+- regression
